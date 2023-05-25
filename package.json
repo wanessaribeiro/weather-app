@@ -1,0 +1,7 @@
+{
+    "name": "plunker-project",
+    "dependencies": {
+      "systemjs": "^6.14.1",
+      "traceur": "^0.0.111"
+    }
+  }
